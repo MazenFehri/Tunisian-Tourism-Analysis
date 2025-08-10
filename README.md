@@ -108,12 +108,12 @@ plt.show()
 *Bar chart showing transport modes.*
 
 **Insights:**
-- Land Travel (Green): Consistently the largest share of visitors, with a strong post-pandemic rebound in 2023 — surpassing pre-COVID levels.
+- Land Travel (Green): Consistently the largest share of visitors, with a strong post-pandemic rebound in 2023 , surpassing pre-COVID levels.
 - Air Travel (Blue): Shows a steady climb until 2019, a steep drop in 2020, and partial recovery by 2023.
 - Sea Travel (Red): Always a minor contributor, with minimal fluctuations except a sharp decline in 2020.
 
 - Road crossings show seasonal spikes, likely linked to regional events.
-Land borders (likely from Algeria/Libya) are crucial for tourism volume. Air travel recovery is slower — possibly due to flight availability, costs, or health concerns.
+Land borders (likely from Algeria/Libya) are crucial for tourism volume. Air travel recovery is slower , possibly due to flight availability, costs, or health concerns.
 ---
 
 ## 3. Tourism Establishments by Region
@@ -161,7 +161,7 @@ plt.show()
 
     Visitor numbers followed a similar upward trend until 2019, then crashed in 2020.
     
-    Post-2021, recovery was slower for visitor numbers compared to revenue — meaning higher revenue per visitor.
+    Post-2021, recovery was slower for visitor numbers compared to revenue , meaning higher revenue per visitor.
 
 
 The gap between the speed of revenue recovery vs. visitor recovery hints at higher spending per tourist, currency effects, or pricing strategies post-COVID.
